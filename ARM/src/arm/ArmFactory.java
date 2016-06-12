@@ -134,10 +134,10 @@ public interface ArmFactory extends EFactory {
 	Claim createClaim();
 
 	/**
-	 * Returns a new object of class '<em>Evidence Assertation</em>'.
+	 * Returns a new object of class '<em>Evidence Assertion</em>'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
-	 * @return a new object of class '<em>Evidence Assertation</em>'.
+	 * @return a new object of class '<em>Evidence Assertion</em>'.
 	 * @generated
 	 */
 	EvidenceAssertation createEvidenceAssertation();

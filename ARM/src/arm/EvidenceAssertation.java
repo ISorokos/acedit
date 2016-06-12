@@ -9,7 +9,7 @@ package arm;
 
 /**
  * <!-- begin-user-doc -->
- * A representation of the model object '<em><b>Evidence Assertation</b></em>'.
+ * A representation of the model object '<em><b>Evidence Assertion</b></em>'.
  * <!-- end-user-doc -->
  *
  *
