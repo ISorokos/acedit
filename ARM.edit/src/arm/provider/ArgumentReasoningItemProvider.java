@@ -66,7 +66,7 @@ public class ArgumentReasoningItemProvider
 	}
 
 	/**
-	 * This adds a property descriptor for the Has Stucture feature.
+	 * This adds a property descriptor for the Has Structure feature.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated

@@ -37,7 +37,7 @@ public abstract class EpsilonStandaloneExample {
     module.parse(getFile1(getSource()));
     
     if (module.getParseProblems().size() > 0) {
-      System.err.println("Parse errors occured...");
+      System.err.println("Parse errors occurred...");
       for (ParseProblem problem : module.getParseProblems()) {
         System.err.println(problem.toString());
       }

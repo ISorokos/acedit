@@ -31,7 +31,7 @@ import org.eclipse.emf.ecore.util.EObjectResolvingEList;
  * <p>
  * The following features are implemented:
  * <ul>
- *   <li>{@link arm.impl.ArgumentReasoningImpl#getHasStucture <em>Has Stucture</em>}</li>
+ *   <li>{@link arm.impl.ArgumentReasoningImpl#getHasStucture <em>Has Structure</em>}</li>
  *   <li>{@link arm.impl.ArgumentReasoningImpl#getDescribes <em>Describes</em>}</li>
  * </ul>
  * </p>
@@ -40,7 +40,7 @@ import org.eclipse.emf.ecore.util.EObjectResolvingEList;
  */
 public class ArgumentReasoningImpl extends ReasoningElementImpl implements ArgumentReasoning {
 	/**
-	 * The cached value of the '{@link #getHasStucture() <em>Has Stucture</em>}' reference.
+	 * The cached value of the '{@link #getHasStucture() <em>Has Structure</em>}' reference.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @see #getHasStucture()

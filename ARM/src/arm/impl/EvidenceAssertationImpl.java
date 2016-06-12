@@ -13,7 +13,7 @@ import org.eclipse.emf.ecore.EClass;
 
 /**
  * <!-- begin-user-doc -->
- * An implementation of the model object '<em><b>Evidence Assertation</b></em>'.
+ * An implementation of the model object '<em><b>Evidence Assertion</b></em>'.
  * <!-- end-user-doc -->
  * <p>
  * </p>

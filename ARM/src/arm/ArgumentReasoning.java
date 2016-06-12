@@ -16,7 +16,7 @@ import org.eclipse.emf.common.util.EList;
  * <p>
  * The following features are supported:
  * <ul>
- *   <li>{@link arm.ArgumentReasoning#getHasStucture <em>Has Stucture</em>}</li>
+ *   <li>{@link arm.ArgumentReasoning#getHasStucture <em>Has Structure</em>}</li>
  *   <li>{@link arm.ArgumentReasoning#getDescribes <em>Describes</em>}</li>
  * </ul>
  * </p>
@@ -27,14 +27,14 @@ import org.eclipse.emf.common.util.EList;
  */
 public interface ArgumentReasoning extends ReasoningElement {
 	/**
-	 * Returns the value of the '<em><b>Has Stucture</b></em>' reference.
+	 * Returns the value of the '<em><b>Has Structure</b></em>' reference.
 	 * <!-- begin-user-doc -->
 	 * <p>
-	 * If the meaning of the '<em>Has Stucture</em>' reference isn't clear,
+	 * If the meaning of the '<em>Has Structure</em>' reference isn't clear,
 	 * there really should be more of a description here...
 	 * </p>
 	 * <!-- end-user-doc -->
-	 * @return the value of the '<em>Has Stucture</em>' reference.
+	 * @return the value of the '<em>Has Structure</em>' reference.
 	 * @see #setHasStucture(Argument)
 	 * @see arm.ArmPackage#getArgumentReasoning_HasStucture()
 	 * @model
@@ -43,10 +43,10 @@ public interface ArgumentReasoning extends ReasoningElement {
 	Argument getHasStucture();
 
 	/**
-	 * Sets the value of the '{@link arm.ArgumentReasoning#getHasStucture <em>Has Stucture</em>}' reference.
+	 * Sets the value of the '{@link arm.ArgumentReasoning#getHasStucture <em>Has Structure</em>}' reference.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
-	 * @param value the new value of the '<em>Has Stucture</em>' reference.
+	 * @param value the new value of the '<em>Has Structure</em>' reference.
 	 * @see #getHasStucture()
 	 * @generated
 	 */

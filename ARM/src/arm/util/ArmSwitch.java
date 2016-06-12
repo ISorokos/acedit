@@ -499,13 +499,13 @@ public class ArmSwitch<T> {
 	}
 
 	/**
-	 * Returns the result of interpreting the object as an instance of '<em>Evidence Assertation</em>'.
+	 * Returns the result of interpreting the object as an instance of '<em>Evidence Assertion</em>'.
 	 * <!-- begin-user-doc -->
 	 * This implementation returns null;
 	 * returning a non-null result will terminate the switch.
 	 * <!-- end-user-doc -->
 	 * @param object the target of the switch.
-	 * @return the result of interpreting the object as an instance of '<em>Evidence Assertation</em>'.
+	 * @return the result of interpreting the object as an instance of '<em>Evidence Assertion</em>'.
 	 * @see #doSwitch(org.eclipse.emf.ecore.EObject) doSwitch(EObject)
 	 * @generated
 	 */

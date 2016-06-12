@@ -1277,7 +1277,7 @@ public interface ArmPackage extends EPackage {
 	int ARGUMENT_REASONING__IS_TAGGED = REASONING_ELEMENT__IS_TAGGED;
 
 	/**
-	 * The feature id for the '<em><b>Has Stucture</b></em>' reference.
+	 * The feature id for the '<em><b>Has Structure</b></em>' reference.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated
@@ -1671,10 +1671,10 @@ public interface ArmPackage extends EPackage {
 	EClass getArgumentReasoning();
 
 	/**
-	 * Returns the meta object for the reference '{@link arm.ArgumentReasoning#getHasStucture <em>Has Stucture</em>}'.
+	 * Returns the meta object for the reference '{@link arm.ArgumentReasoning#getHasStucture <em>Has Structure</em>}'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
-	 * @return the meta object for the reference '<em>Has Stucture</em>'.
+	 * @return the meta object for the reference '<em>Has Structure</em>'.
 	 * @see arm.ArgumentReasoning#getHasStucture()
 	 * @see #getArgumentReasoning()
 	 * @generated
@@ -2033,7 +2033,7 @@ public interface ArmPackage extends EPackage {
 		EClass ARGUMENT_REASONING = eINSTANCE.getArgumentReasoning();
 
 		/**
-		 * The meta object literal for the '<em><b>Has Stucture</b></em>' reference feature.
+		 * The meta object literal for the '<em><b>Has Structure</b></em>' reference feature.
 		 * <!-- begin-user-doc -->
 		 * <!-- end-user-doc -->
 		 * @generated
